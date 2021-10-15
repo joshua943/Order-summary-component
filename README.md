@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://nachoj12.github.io/Order-summary-component/)
+- Live Site URL: [Netlify](https://keen-almeida-91ab6c.netlify.app/)
 ### Built with
 
 - Semantic HTML5 markup
